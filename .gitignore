@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Web project and Docker (not published to this repo)
+src/LCESaveDoctor/
+Dockerfile
+docker-compose.yml
+.dockerignore
